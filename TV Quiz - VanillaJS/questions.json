@@ -1,0 +1,67 @@
+[
+    {
+        "question": "Who won Season 3 of Rupaul's Drag Race?",
+        "choice1": "Raven",
+        "choice2": "Raja",
+        "choice3": "Alaska",
+        "choice4": "Jinkx Monsoon",
+        "answer":  "2"
+    },
+    {
+        "question": "Who won Season 1 of US Big Brother?",
+        "choice1": "Eddie",
+        "choice2": "Will",
+        "choice3": "Janelle",
+        "choice4": "Dan",
+        "answer":  "1"
+    },
+    {
+        "question": "How many castaways competed on the first season of Survivor?",
+        "choice1": "20",
+        "choice2": "10",
+        "choice3": "13",
+        "choice4": "16",
+        "answer":  "4"
+    },
+    {
+        "question": "From where did the first season of The Amazing Race depart?",
+        "choice1": "New York City",
+        "choice2": "Los Angeles",
+        "choice3": "Miami",
+        "choice4": "Atlanta",
+        "answer":  "1"
+    },
+    {
+        "question": "Which of the following has never been a setting for the Real Housewives franchise?",
+        "choice1": "Salt Lake City",
+        "choice2": "Washington, DC",
+        "choice3": "Nashville",
+        "choice4": "Miami",
+        "answer":  "3"
+    },
+    {
+        "question": "From where did the first season of The Amazing Race depart?",
+        "choice1": "New York City",
+        "choice2": "Los Angeles",
+        "choice3": "Miami",
+        "choice4": "Atlanta",
+        "answer":  "1"
+    },
+    {
+        "question": "Who has won the most elimination rounds on MTV's The Challenge?",
+        "choice1": "Wes",
+        "choice2": "Cara Maria",
+        "choice3": "Johnny Bananas",
+        "choice4": "CT",
+        "answer":  "1"
+    },
+    {
+        "question": "How many marriages have resulted from The Bachelor/Bachelorette franchise?",
+        "choice1": "10",
+        "choice2": "5",
+        "choice3": "3",
+        "choice4": "4",
+        "answer":  "2"
+    }
+]
+
