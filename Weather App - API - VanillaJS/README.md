@@ -1,9 +1,8 @@
 # Weather API
 
+Weather app featuring search by location.
 
-Simple Quiz using Pagination/ScoreKeeping.
-
-Weather pulled from Open Weather API @ https://home.openweathermap.org/
+Weather Data pulled from Open Weather API @ https://home.openweathermap.org/
 
 HTML/CSS/JS/API
 
