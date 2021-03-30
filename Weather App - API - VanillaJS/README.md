@@ -9,5 +9,5 @@ HTML/CSS/JS/API
 
 NOTE: API Key in main.js must be filled out to run
 
-![](images/readme.png)
+![readme](https://user-images.githubusercontent.com/22460957/112933711-ff4bcb80-90e5-11eb-9150-fceb58887ad9.png)
 
