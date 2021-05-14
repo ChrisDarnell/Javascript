@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Test Site by Chris Darnell</title>
+</head>
+<body>
+    <div class="wrapper">
+            <h1>Demo Function JS Site by Chris Darnell</h1>
+    <div class="section" id="section-sum">
+            <h2>Sum Two Numbers</h2>
+            <h3>Enter Number One:</h3>
+                <input id='num1'>
+            <h3>Enter Number Two:</h3>
+                <input id='num2'>
+             <button class = "button" id="button-sum" type="button">Submit</button>
+             <div id="result-sum">Result: </div>
+    </div>
+       
+    <div class="section" id="section-calculate">
+        <h2>Calculate Two Numbers</h2>
+        <h3>Enter Number One:</h3>
+        <input id='num3'>
+            <div class="operand-selection">
+                    <input type="radio" id="addition" name="operand-selection" value="addition"
+                           checked>
+                        <label for="addition">+</label>
+                    <input type="radio" id="subtraction" name="operand-selection" value="subtraction">
+                        <label for="subtraction">-</label>
+                    <input type="radio" id="multiplication" name="operand-selection" value="multiplication">
+                        <label for="multiplication">*</label>
+                    <input type="radio" id="division" name="operand-selection" value="division">
+                        <label for="division">/</label>
+            </div>
+        <h3>Enter Number Two:</h3>
+        <input id='num4'>
+        <button class ="button" id="button-calculate" type="button">Submit</button>
+        <div id="result-calculate">Result: </div>
+    </div>
+
+    <div class="section" id="section-change-fullbgcolor">
+        <h2>Change Background Color of This Entire Page - Random</h2>
+        <button class ="button" id="button-change-fullbgcolor" type="button">Change Color</button>
+        <button class ="button" id="button-revert-fullbgcolor" type="button">Back to Standard</button>
+    </div>
+
+    <div class="section" id="section-change-divcolor">
+        <h2>Change Background Color of Just This Div - Random</h2>
+        <button class ="button" id="button-change-divcolor" type="button">Change Color</button>
+        <button class ="button" id="button-revert-divcolor" type="button">Back to Standard</button>
+    </div>
+
+    <div class="section" id="section-select-fullbgcolor">
+        <h2>Select Background Color of This Entire Page</h2>
+        <h3>Enter Hex Code: Must be Formatted #******</h3>
+        <input id="hex1" value= "#" pattern="^#+([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$">
+        <button class ="button" id="button-select-fullbgcolor" type="button">Change Color</button>
+        <button class ="button" id="button-revertselection-fullbgcolor" type="button">Back to Standard</button>
+    </div>
+
+    <div class="section" id="section-select-divcolor">
+        <h2>Select Background Color of Just This Div</h2>
+        <h3>Enter Hex Code: Must be Formatted #******</h3>
+        <input id='hex2' value= "#" pattern="^#+([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$">
+        <button class ="button" id="button-select-divcolor" type="button">Change Color</button>
+        <button class ="button" id="button-revertselection-divcolor" type="button">Back to Standard</button>
+    </div>
+
+
+    <div class="section" id="counter">
+        <h2>Counter - Increment or Decrement</h2>
+        <div id="current-count">0</div>
+        <button class="button" id="counter-decrement" type="button">Decrement</button>
+        <button class="button" id="counter-reset" type="button">Reset</button>
+        <button class="button" id="counter-increment" type="button">Increment</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
