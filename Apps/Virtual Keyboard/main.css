@@ -1,3 +1,19 @@
+body {
+    background-color: #ffed99;
+    text-align: center;
+}
+
+h1 {
+
+}
+
+.use-keyboard-input {
+    width: 500px;
+}
+
+
+/* Keyboard  */
+
 .keyboard {
     position: fixed;
     left: 0;
